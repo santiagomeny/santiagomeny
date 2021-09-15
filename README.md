@@ -7,7 +7,7 @@
 
 - 📅 Before I worked as a Sr Java dev at [3cInteractive(Imimobile)](imimobile.com)
 
-- 💻Also worked as a Java Consultant [in several project that you can checkout in](linkedin.com)
+- 💻 Also worked as a Java Consultant [in several project that you can checkout in](linkedin.com)
 
 - 💬 Ask me about **Spring Boot / Java**
 
